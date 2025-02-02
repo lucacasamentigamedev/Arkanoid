@@ -1,5 +1,5 @@
 # Arkanoid
- Arkanoid project made with C
+ Arkanoid project made with C++ and raylib
 
  ![{06971AD7-1AE2-49AE-BAE5-D10CF59C502C}](https://github.com/user-attachments/assets/a86e7a02-c65e-4142-ad5e-5b2133babe0e)
 
