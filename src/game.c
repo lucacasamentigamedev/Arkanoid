@@ -1,3 +1,5 @@
+//to compile game and create a new main.exe use this command on root Arkanoid folder "clang -o main.exe .\src\*.c -Llib -lraylibdll -Iinclude"
+
 #include "game.h"
 #include "raylib.h"
 #include "stdlib.h"
